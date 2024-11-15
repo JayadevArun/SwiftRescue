@@ -1,6 +1,6 @@
-# Accident Assistance App
+# SwiftRescue
 
-This Flutter project is designed to efficiently utilize the time between when a person meets with an accident and when they are taken to the hospital. The app provides real-time assistance and connects users with emergency services to minimize response time in critical situations.
+This flutter project is an accident assistance app designed to efficiently utilize the time between when a person meets with an accident and when they are taken to the hospital. The app provides real-time assistance and connects users with emergency services to minimize response time in critical situations.
 
 ## Video Demo
 
